@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Description": "Marcar como em progresso ou feita",
+    "Status": 2,
+    "CreatedAt": "2025-08-27T14:00:35.3273205-03:00"
+  },
+  {
+    "Id": 2,
+    "Description": "Opções de listar todas as tarefas ou filtrar por status. Ex: todas as concluidas, ou em progresso, etc.",
+    "Status": 2,
+    "CreatedAt": "2025-08-27T14:02:04.4952958-03:00"
+  },
+  {
+    "Id": 3,
+    "Description": "Organizar codigo em algum tipo de design pattern. TDD, por exemplo.",
+    "Status": 1,
+    "CreatedAt": "2025-08-27T14:02:49.5441902-03:00"
+  }
+]

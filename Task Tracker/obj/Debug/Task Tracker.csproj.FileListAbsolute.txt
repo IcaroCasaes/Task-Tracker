@@ -1,0 +1,11 @@
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\bin\Debug\Task Tracker.exe.config
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\bin\Debug\Task Tracker.exe
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\bin\Debug\Task Tracker.pdb
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\obj\Debug\Task Tracker.csproj.AssemblyReference.cache
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\obj\Debug\Task Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\obj\Debug\Task Tracker.exe
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\obj\Debug\Task Tracker.pdb
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\obj\Debug\Task Tracker.exe.config
+C:\Users\Its work time\source\repos\Task Tracker\Task Tracker\obj\Debug\Task Tra.8401731A.Up2Date
